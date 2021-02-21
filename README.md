@@ -18,6 +18,10 @@ brew install tesseract
 And tesseract languages packs: 
 (Here is spanish in the ticket)
 ```
+brew install tesseract-lang
+```
+Then see the languages list:
+```
 tesseract --list-langs
 ```
 poppler:
